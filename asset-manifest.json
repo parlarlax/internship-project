@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/internship-project/static/css/main.5f361e03.chunk.css",
+    "main.js": "/internship-project/static/js/main.13e8c10b.chunk.js",
+    "main.js.map": "/internship-project/static/js/main.13e8c10b.chunk.js.map",
+    "runtime-main.js": "/internship-project/static/js/runtime-main.883a5bf9.js",
+    "runtime-main.js.map": "/internship-project/static/js/runtime-main.883a5bf9.js.map",
+    "static/js/2.d4ae6dc4.chunk.js": "/internship-project/static/js/2.d4ae6dc4.chunk.js",
+    "static/js/2.d4ae6dc4.chunk.js.map": "/internship-project/static/js/2.d4ae6dc4.chunk.js.map",
+    "index.html": "/internship-project/index.html",
+    "precache-manifest.ec979e27fb932e847fe578566ab4befc.js": "/internship-project/precache-manifest.ec979e27fb932e847fe578566ab4befc.js",
+    "service-worker.js": "/internship-project/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/internship-project/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d4ae6dc4.chunk.js.LICENSE.txt": "/internship-project/static/js/2.d4ae6dc4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/internship-project/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.883a5bf9.js",
+    "static/js/2.d4ae6dc4.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.13e8c10b.chunk.js"
+  ]
+}
